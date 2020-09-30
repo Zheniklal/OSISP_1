@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Владелец\source\repos\OSISP_1_new\OSISP_1_new\Source.cpp(120,6): warning C4101:  wheelOffset: неиспользованная локальная переменная
+C:\Users\Владелец\source\repos\OSISP_1_new\OSISP_1_new\Source.cpp(288,10): warning C4101:  hbm: неиспользованная локальная переменная
+C:\Users\Владелец\source\repos\OSISP_1_new\OSISP_1_new\Source.cpp(228): warning C4715:  WindowProc: значение возвращается не при всех путях выполнения
+  OSISP_1_new.vcxproj -> C:\Users\Владелец\source\repos\OSISP_1_new\Debug\OSISP_1_new.exe
